@@ -1,0 +1,26 @@
+{
+  "name": "2131200114_laingocminhtri_lab2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zKai0z/2131200114_LaiNgocMinhTri_Lab2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zKai0z/2131200114_LaiNgocMinhTri_Lab2/issues"
+  },
+  "homepage": "https://github.com/zKai0z/2131200114_LaiNgocMinhTri_Lab2#readme",
+  "description": "",
+  "dependencies": {
+    "@react-navigation/native": "^7.1.18",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.2"
+  }
+}
